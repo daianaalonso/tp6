@@ -14,5 +14,5 @@ public class Medidor implements MedidorInterfaz {
         this.temperatura = this.clima.temperatura();
         return this.temperatura;
     }
-    
+
 }
